@@ -2,7 +2,9 @@
 *Introduction to Machine Learning*
 
 **K. Thach**
+
 UNCC Electrical Engineering Graduate Student
+
 Engineer II & Scientist 
 
 
