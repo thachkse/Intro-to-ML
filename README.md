@@ -1,10 +1,7 @@
 # Intro-to-ML
 *Introduction to Machine Learning*
 
-**K. Thach**
-UNCC Electrical Engineering Graduate Student
-Engineer II & Scientist 
-
+## Description
 
 This repository will document all Homework / Assignments related to the Dr. Tabkhi's UNCC Introduction to Machine Learning course.
 
@@ -15,5 +12,10 @@ This repository will document all Homework / Assignments related to the Dr. Tabk
 2. HW1 - Regularization Algorithm
 
 
+## Author
 
+**K. Thach**
 
+  UNCC Electrical Engineering Graduate Student
+
+  Engineer II & Scientist 
