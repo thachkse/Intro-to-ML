@@ -19,3 +19,9 @@ This repository will document all Homework / Assignments related to the Dr. Tabk
   UNCC Electrical Engineering Graduate Student
 
   Engineer II & Scientist 
+
+## Misc. 
+
+### Useful links / Cheat Sheets
+
+[Mathematical Symbols in Markdown](https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/)
